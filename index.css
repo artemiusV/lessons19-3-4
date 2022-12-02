@@ -1,0 +1,14 @@
+body {
+  background: skyblue;
+  padding: 50px;
+}
+
+h1 {
+  color: white;
+}
+
+img {
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+}
